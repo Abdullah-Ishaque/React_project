@@ -1,6 +1,5 @@
 import { AiFillDollarCircle } from "react-icons/ai";
 import Logo from "../assets/logo.png"
-import { useState } from "react";
 
 
 const Nav = ({ coin } :{coin : number}) => {

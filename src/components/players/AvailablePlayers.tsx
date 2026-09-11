@@ -1,5 +1,4 @@
-import React, { type Dispatch, type SetStateAction } from 'react';
-import { FaUser } from 'react-icons/fa';
+import{ type Dispatch, type SetStateAction } from 'react';
 import PlayerCard from './PlayerCard';
 import type { Iplayer } from '../../types/player';
 

@@ -1,7 +1,8 @@
-import React, { useState, type Dispatch, type SetStateAction } from 'react';
+import { useState, type Dispatch, type SetStateAction } from 'react';
 import { FaUser } from 'react-icons/fa';
 import type { Iplayer } from '../../types/player';
 import { toast } from 'react-toastify';
+
 
 
 interface IPlayerCardProps {
